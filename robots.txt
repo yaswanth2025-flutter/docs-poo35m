@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ky2s3i.date-me.pro/sitemap.xml
